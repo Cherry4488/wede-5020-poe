@@ -6,13 +6,14 @@ This project follows Semantic Versioning.
 
 ## [1.0.0] 
 ### Added
-- xyz
+- Added a logo on every html content.
+- Added more refrences due to images.
 
 ### Changed
-- xyz
+- Changed the structure of my sitemap.
 
 ### Fixed
-- xyz
+-Fixed the width of my images.
 
 ## Semantic Versioning
 
