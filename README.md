@@ -1,25 +1,56 @@
 # Project Title
-Your project's title
+La'Sweet Fragrance
 
 ## Student Information
-**Student number:** Your student number <br>
-**Student Name:** Your full name
+**Student number:**ST10460650 <br>
+**Student Name:** Charity Katiyo
 
 ## Project Overview
+HISTORY
 
-Pull this from your project proposal.
+La’ Sweet fragrance is a feminine perfume brand that opened in March 2026. It originates in Thatchfield, a small town In Centurion Gauteng. It is a brand that is all about giving women a platform to become matchlessness.  
+
+MISSION
+Our mission as La’Sweet Fragrance is to help women fall in love with themselves, find their lifetime signature scent, express how they feel through perfumes and create beautiful memories with romantic partners, friends and family members.
+
+VISSION
+Since our brand has a French meaning to it (The word La means The in French, and the word The in French speaks about women beauty), we would like for our Fragrances to also be sold in France and empower more women worldwide and that is our vision.  
+
+TARGET AUDIENCE
+ Our target audience are young girls who are still discovering themselves and building their identity. This allows them to try different La’Sweet perfumes. 
+
+Females who enjoy luxurious feminine Scents and males who would like to gift their loved ones with an elegant perfume from La’Sweet Fragrance.  
 
 ## Website Goals and Objectives
+GOALS
 
-Pull this from your project proposal.
+Our first goal is to make sure that our website is easily accessible and not difficult to navigate.  
+
+Our second goal is for our brand to be well recognized in South Africa by reaching other provinces. 
+ 
+ KEY PERFOMANCE INDICATORS
+ Ensure that at least 1500 people visit our website monthly and from that 1500, 7% make a purchase, or leave feedback. 
+
+We would also like to gain 100 new followers every month. 
+
 
 ## Timeline and Milestones
 
-Pull this from your project proposal.
+During the first three weeks we will discuss the strategies we will implement to plan the project . 
+
+Week four is when wireframes will be introduced.  
+
+Week five we then add out HTML, CSS and JavaScript. 
+
+Week 6 we will ensure our website is fully functional.  
+
+Week seven people will be able to utilize the website and any errors that occur after that will definitely be fixed. 
+
+  
 
 ## Sitemap
 
-![Website Sitemap](img/mysitemap.png) <br> (The one here is only an example, include your own site map)
+![Website Sitemap]img\Screenshot sitemap.jpg <br>
 
 ## References
 
