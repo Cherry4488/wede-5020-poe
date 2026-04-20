@@ -11,12 +11,15 @@ HISTORY
 La’ Sweet fragrance is a feminine perfume brand that opened in March 2026. It originates in Thatchfield, a small town In Centurion Gauteng. It is a brand that is all about giving women a platform to become matchlessness.  
 
 MISSION
+
 Our mission as La’Sweet Fragrance is to help women fall in love with themselves, find their lifetime signature scent, express how they feel through perfumes and create beautiful memories with romantic partners, friends and family members.
 
 VISSION
+
 Since our brand has a French meaning to it (The word La means The in French, and the word The in French speaks about women beauty), we would like for our Fragrances to also be sold in France and empower more women worldwide and that is our vision.  
 
 TARGET AUDIENCE
+
  Our target audience are young girls who are still discovering themselves and building their identity. This allows them to try different La’Sweet perfumes. 
 
 Females who enjoy luxurious feminine Scents and males who would like to gift their loved ones with an elegant perfume from La’Sweet Fragrance.  
@@ -54,4 +57,30 @@ Week seven people will be able to utilize the website and any errors that occur 
 
 ## References
 
-Ensure that all sources used in your assignment are cited and referenced using the Harvard referencing style.
+>La’Sweet Fragrance is a fictional business but is inspired by a perfume brand in Uk called La Vie Est Belle by Lancome. 
+
+Lancome(2000) Lancome UK. Available at: https://www.lancome.co.uk (Accessed in 2000) 
+
+
+> For my wireframe design, I used the knowledge I learnt in class and the knowledge I learnt on YouTube.
+Youtube video:
+Adrian Twarong(2021).Available at: www.youtube.com (accessed 10 Feb 2021)
+ 
+
+https://copilot.microsoft.com (Used AI to help me estimate the budget and timeframe) 
+
+Target audience:
+Hesham Zreik (2026)Perfume marketing strategies.Available at: https://fastercapital.com (Accessed 2026)
+
+Imagies:
+
+logo
+Pinterest( no date)Pin on Icons [pinerest]. Available at https://pin.it/6o4wjsz6r
+perfume image 1.jpeg
+Pinterest( no date)Pin on Icons [pinerest]. Available at https://pin.it/4ZY5SoihE
+perfume image 2.jpeg
+Pinterest( no date)Pin on Icons [pinerest]. Available at https://pin.it/7IKFGmJFW
+perfume image 3.jpeg
+Pinterest( no date)Pin on Icons [pinerest]. Available at https://pin.it/3I6LmcHbf
+perfume image 4.jpeg
+Pinterest( no date)Pin on Icons [pinerest]. Available at https://pin.it/7G8nBIHxA
