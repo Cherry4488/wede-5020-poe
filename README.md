@@ -8,21 +8,26 @@ La'Sweet Fragrance
 ## Project Overview
 HISTORY
 
-La’ Sweet fragrance is a feminine perfume brand that opened in March 2026. It originates in Thatchfield, a small town In Centurion Gauteng. It is a brand that is all about giving women a platform to become matchlessness.  
+La’Sweet Fragrance is a fictional feminine perfume brand established in March 2026. The 
+organisation is located in Thatchfield, Centurion, Gauteng, and specialises in the 
+development and retail of luxury fragrances for women. 
 
 MISSION
 
-Our mission as La’Sweet Fragrance is to help women fall in love with themselves, find their lifetime signature scent, express how they feel through perfumes and create beautiful memories with romantic partners, friends and family members.
+The mission of La’Sweet Fragrance is to provide high-quality, feminine perfumes that 
+enable customers to develop a personal signature scent and associate fragrance with self expression.
 
 VISSION
 
-Since our brand has a French meaning to it (The word La means The in French, and the word The in French speaks about women beauty), we would like for our Fragrances to also be sold in France and empower more women worldwide and that is our vision.  
+ The vision of La’Sweet Fragrance is for the perfumes to be internationally distributed, 
+specifically within the French market, and to establish the brand as a globally recognized 
+name in women’s luxury fragrance by 2033.
 
 TARGET AUDIENCE
 
- Our target audience are young girls who are still discovering themselves and building their identity. This allows them to try different La’Sweet perfumes. 
-
-Females who enjoy luxurious feminine Scents and males who would like to gift their loved ones with an elegant perfume from La’Sweet Fragrance.  
+ The primary target audience are women aged 18 to 35 with an interest in luxury personal care products. 
+ The secondary audience includes men purchasing perfume products as gifts for female partners or family members.
+ Another target audience are young adults aged 16 to 21 who are developing personal style preferences.
 
 ## Website Goals and Objectives
 GOALS
@@ -38,18 +43,12 @@ We would also like to gain 100 new followers every month.
 
 
 ## Timeline and Milestones
-
-During the first three weeks we will discuss the strategies we will implement to plan the project . 
-
-Week four is when wireframes will be introduced.  
-
-Week five we then add out HTML, CSS and JavaScript. 
-
-Week 6 we will ensure our website is fully functional.  
-
-Week seven people will be able to utilize the website and any errors that occur after that will definitely be fixed. 
-
-  
+Stage 1:Brainstorming ideas, strategically planning and identifying target audience for the brand, to be completed by 30 April 2026.
+Stage 2:Introduction to wireframe and sitemap, to be completed by 3 May 2026.
+Stage 3:Finalizing wireframes and sitemaps on UI designs on Figma , to be completed by 5 May 2026.
+Stage 4:Building HTML,CSS,JavaScript and MySQL, to be completed by 12 May 2026.
+Stage 5:Testing the website to ensure it is functional, to be completed by 25 May 2026.
+Stage 6:Checking for any errors regarding the website, to be completed by 30 May 2026.
 
 ## Sitemap
 
@@ -64,7 +63,7 @@ Lancome(2000) Lancome UK. Available at: https://www.lancome.co.uk (Accessed in 2
 
 > For my wireframe design, I used the knowledge I learnt in class and the knowledge I learnt on YouTube.
 Youtube video:
-Adrian Twarong(2021).Available at: www.youtube.com (accessed 10 Feb 2021)
+Adrian Twarong(2021).Available at: www.youtube.com(accessed 10 Feb 2021)
  
 
 https://copilot.microsoft.com (Used AI to help me estimate the budget and timeframe) 
