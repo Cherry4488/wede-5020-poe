@@ -54,6 +54,13 @@ Stage 6:Checking for any errors regarding the website, to be completed by 30 May
 
 ![Website Sitemap]img\Screenshot sitemap.jpg <br>
 
+## Screenshot of homepage on desktop, tablet, and mobile:
+
+![homepage on desktop](desktop-view1.png)
+![homepage on tablet](tablet-view.jpg)
+![homepage on mobile](mobile-view.png)
+
+
 ## References
 
 >La’Sweet Fragrance is a fictional business but is inspired by a perfume brand in Uk called La Vie Est Belle by Lancome. 
