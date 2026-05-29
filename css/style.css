@@ -1,0 +1,815 @@
+/* ---------------------------
+   Base styles for my website ( About.html)
+--------------------------- */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fffafc; /* soft background */
+    color: #333;
+    line-height: 1.6;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* ---------------------------
+   Header 
+--------------------------- */
+header {
+    background-color: #f4c2c2; 
+    padding: 10px 20px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+nav img {
+    border-radius: 50%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #a83279; /* hover effect */
+}
+
+/* ---------------------------
+    Using Css properties to style elements on the typography styles for about.html
+--------------------------- */
+main {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+main h1 {
+    color: #a83279;
+    font-size: 2.2rem; 
+    margin-bottom: 20px;
+}
+
+main h3 {
+    color: #a83279;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+main p {
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
+
+/* ---------------------------
+   2.4 Css layout techniques for the layout structure
+--------------------------- */
+main section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ---------------------------
+   2.5 Applying CSS properties to style elements visually 
+--------------------------- */
+main h1, main h3 {
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1); /* subtle shadow */
+}
+
+main p {
+    background-color: #fdfdfd;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+/* ---------------------------
+   Responsive Design
+--------------------------- */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    main h1 {
+        font-size: 1.8rem;
+    }
+
+    main h3 {
+        font-size: 1.3rem;
+    }
+
+    main p {
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    main h1 {
+        font-size: 1.5rem;
+    }
+
+    main h3 {
+        font-size: 1.1rem;
+    }
+
+    main p {
+        font-size: 0.95rem;
+    }
+}
+
+/* ---------------------------
+    Relative Units
+--------------------------- */
+main {
+    padding: 2rem;
+}
+
+main p {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+/* ---------------------------
+   Images 
+--------------------------- */
+nav img {
+    max-width: 100%;
+    height: auto;
+}
+/* ---------------------------
+   Base style for contact. html
+--------------------------- */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fffafc; 
+    color: #333;
+    line-height: 1.6;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* ---------------------------
+   Header and Navigation bar 
+--------------------------- */
+header {
+    background-color: #f4c2c2; 
+    padding: 10px 20px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+nav img {
+    border-radius: 50%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #a83279; /* hover effect */
+}
+
+/* ---------------------------
+   Applying CSS Properties to style elements on the typography style for contact.html
+--------------------------- */
+main {
+    max-width: 700px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+main h1 {
+    text-align: center;
+    color: #a83279;
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+}
+
+main p {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+
+/* ---------------------------
+   Style of the contact form
+--------------------------- */
+section label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: #333;
+}
+
+section input[type="text"],
+section input[type="email"],
+section input[type="number"] {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+/* Button to submit contact details */
+section button {
+    display: block;
+    margin: 20px auto;
+    background-color: #a83279;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+section button:hover {
+    background-color: #f4c2c2;
+    color: #333;
+}
+
+/* ---------------------------
+ CSS Layout techniques for the layout sturcture on contact.html
+--------------------------- */
+main section {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+/* ---------------------------
+Applying CSS properties to style elements visually
+--------------------------- */
+main h1 {
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+section input {
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* ---------------------------
+Responsive Design
+--------------------------- */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    main h1 {
+        font-size: 1.8rem;
+    }
+
+    section input {
+        padding: 0.6rem;
+    }
+}
+
+@media (max-width: 480px) {
+    main h1 {
+        font-size: 1.5rem;
+    }
+
+    main p {
+        font-size: 0.9rem;
+    }
+}
+
+/* ---------------------------
+ Relative Units
+--------------------------- */
+main {
+    padding: 2rem;
+}
+
+section input {
+    font-size: 1rem;
+}
+
+/* ---------------------------
+Image
+--------------------------- */
+nav img {
+    max-width: 100%;
+    height: auto;
+}
+/* ---------------------------
+Base style for the Enquiry.html 
+--------------------------- */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fffafc; 
+    color: #333;
+    line-height: 1.6;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* ---------------------------
+   Header and Navigation bar 
+--------------------------- */
+header {
+    background-color: #f4c2c2; 
+    padding: 10px 20px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+nav img {
+    border-radius: 50%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #a83279; /* hover effect */
+}
+
+/* ---------------------------
+   Applying CSS properties to style elements on my typography style for enquiry.html
+--------------------------- */
+main {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+main h2 {
+    text-align: center;
+    color: #a83279;
+    font-size: 2rem; /* relative unit */
+    margin-bottom: 20px;
+}
+
+main p {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1rem;
+}
+
+/* ---------------------------
+   Style of the enquiry form
+--------------------------- */
+section label {
+    display: block;
+    margin: 10px 0 5px;
+    font-weight: bold;
+    color: #333;
+}
+
+section input[type="text"],
+section input[type="email"],
+section input[type="message"] {
+    width: 100%;
+    padding: 0.8rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Button to submit enquiry details */
+section button {
+    display: block;
+    margin: 20px auto;
+    background-color: #a83279;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+section button:hover {
+    background-color: #f4c2c2;
+    color: #333;
+}
+
+/* ---------------------------
+CSS layout techniques for the layout structure on enquiry.html
+--------------------------- */
+main section {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+/* ---------------------------
+Applying CSS properties to style elements visually
+--------------------------- */
+main h2 {
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+/* ---------------------------
+Responsive Design
+--------------------------- */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    main h2 {
+        font-size: 1.6rem;
+    }
+
+    section input {
+        padding: 0.6rem;
+    }
+}
+
+@media (max-width: 480px) {
+    main h2 {
+        font-size: 1.4rem;
+    }
+
+    main p {
+        font-size: 0.9rem;
+    }
+}
+
+/* ---------------------------
+Relative Units
+--------------------------- */
+main {
+    padding: 2rem;
+}
+
+section input {
+    font-size: 1rem;
+}
+
+/* ---------------------------
+Images
+--------------------------- */
+nav img {
+    max-width: 100%;
+    height: auto;
+}
+css
+/* ---------------------------
+Base style for the index.html 
+--------------------------- */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f19fc0;
+    color: #141111;
+    line-height: 1.6;
+}
+
+/* Reset default list styles */
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* ---------------------------
+   Header and Navigation bar 
+--------------------------- */
+header {
+    background-color: #f1a8d4; 
+    padding: 10px 20px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+nav img {
+    border-radius: 50%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #a83279; /* hover effect */
+}
+
+/* ---------------------------
+Applying CSS properties to style elements on the typography style for index.html
+--------------------------- */
+main {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+main h1 {
+    color: #a83279;
+    font-size: 2.2em;
+    margin-bottom: 20px;
+}
+
+main p {
+    margin: 10px 0;
+    font-size: 1.1em;
+}
+
+/* Shop Now button */
+main li a {
+    display: inline-block;
+    background-color: #a83279;
+    color: white;
+    padding: 10px 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+main li a:hover {
+    background-color: #f4c2c2;
+    color: #333;
+}
+
+/* ---------------------------
+Applying CSS layout techniques for the layout structure on index.html
+--------------------------- */
+main section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* ---------------------------
+Applying CSS properties to stye elemets visually
+--------------------------- */
+main img {
+    margin-top: 20px;
+    border: 2px solid #a83279;
+    border-radius: 10px;
+    max-width: 900px;
+    height: auto;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
+}
+
+/* ---------------------------
+Responsive Design
+--------------------------- */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    main h1 {
+        font-size: 1.8em;
+    }
+
+    main p {
+        font-size: 1em;
+    }
+
+    main li a {
+        padding: 8px 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    main h1 {
+        font-size: 1.5em;
+    }
+
+    main p {
+        font-size: 0.95em;
+    }
+}
+
+/* ---------------------------
+Relative Units
+--------------------------- */
+main h1 {
+    font-size: 2.2rem; /* relative unit */
+}
+
+main p {
+    font-size: 1.1rem; /* relative unit */
+}
+
+main li a {
+    font-size: 1rem;
+}
+
+/* ---------------------------
+Images
+--------------------------- */
+main img {
+    width: 100%;
+    height: auto;
+}
+/* ---------------------------
+Base style for the products.html 
+--------------------------- */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fffafc; 
+    color: #333;
+    line-height: 1.6;
+}
+
+ul, li {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+/* ---------------------------
+   Header and Navigation bar
+--------------------------- */
+header {
+    background-color: #f4c2c2; 
+    padding: 10px 20px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+nav img {
+    border-radius: 50%;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #a83279; /* hover effect */
+}
+
+/* ---------------------------
+Applying CSS properties to style emlements the typography style for enquiry.html
+--------------------------- */
+main {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+main h1 {
+    color: #a83279;
+    font-size: 2.2rem; 
+    margin-bottom: 20px;
+}
+
+main h2 {
+    color: #a83279;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+main p {
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+/* ---------------------------
+Images of products 
+--------------------------- */
+main img {
+    margin: 15px;
+    border: 2px solid #a83279;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    max-width: 300px;
+    height: auto;
+}
+
+main img:hover {
+    transform: scale(1.05); /* zoom effect */
+}
+
+/* Link styled as button */
+main a {
+    text-decoration: none;
+    color: white;
+    background-color: #a83279;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+main a:hover {
+    background-color: #f689d0;
+    color: #333;
+}
+
+/* ---------------------------
+Applying CSS layout techniques to for the layout structure on product.html
+--------------------------- */
+main section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* ---------------------------
+Responsive Design
+--------------------------- */
+@media (max-width: 768px) {
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    main h1 {
+        font-size: 1.8rem;
+    }
+
+    main img {
+        width: 80%;
+    }
+}
+
+@media (max-width: 480px) {
+    main h1 {
+        font-size: 1.5rem;
+    }
+
+    main p {
+        font-size: 0.9rem;
+    }
+
+    main img {
+        width: 100%;
+    }
+}
+
+
+main {
+    padding: 2rem;
+}
+
+main a {
+    font-size: 1rem;
+}
+
+
+nav img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+nav img {
+    max-width: 100%;
+    height: auto;
+}
