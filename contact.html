@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    
+     <!--Meta tags for SEO-->
+  <meta name="description" content="Contact La’ Sweet Fragrance for support, perfume orders, and enquiries.">
+  <meta name="keywords" content="contact perfume, fragrance support, La Sweet, South Africa">
+  <meta name="author" content="La’ Sweet Fragrance">
+
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -31,15 +37,22 @@
             <!--Introductory text-->
             <p>Our team is here to help you.Connect with us by filling the contact form below and we will respond to you shortly.</p>
 
-            <!--Contact form-->
-             <li><label>First Name:</label></li>
-             <input type="text">
-            <li><label>Surname:</label></li>
-            <input type="text">
-            <li><label>Email Address:</label></li>
-            <input type="email">
-            <li><label>Phone Number:</label></li>
-            <input type="number">
+             <!-- Contact form -->
+<form id="contactForm">
+  <li><label>First Name:</label></li>
+  <input type="text" name="name">
+
+  <li><label>Surname:</label></li>
+  <input type="text" name="surname">
+
+  <li><label>Email Address:</label></li>
+  <input type="email" name="email">
+
+  <li><label>Phone Number:</label></li>
+  <input type="number" name="phone">
+
+  <button type="submit">Submit</button>
+</form>
 
             <!--Alternative contact methods-->
             <p>Alternatively,You can send us an email at lasweetfragrance4480@gmail.com </p>
@@ -48,5 +61,6 @@
         </section>
     </main>
     
+  <script src="js/script.js" defer></script>
 </body>
 </html>
