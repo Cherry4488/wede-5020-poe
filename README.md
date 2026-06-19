@@ -90,3 +90,16 @@ perfume image 3.jpeg
 Pinterest( no date)Pin on Icons [pinerest]. Available at https://pin.it/3I6LmcHbf
 perfume image 4.jpeg
 Pinterest( no date)Pin on Icons [pinerest]. Available at https://pin.it/7G8nBIHxA
+
+## Refrence part 3
+
+Form Validation:
+
+W3Schools. (2026) JavaScript HTML DOM. Available at: https://www.w3schools.com/js/js_htmldom.asp (w3schools.com in Bing) (Accessed: 19 June 2026).
+
+AJAX:
+
+Mozilla Developer Network (MDN). (2024) Fetch API – Web APIs. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API (developer.mozilla.org in Bing) (Accessed: 19 June 2026).
+
+CODES:
+Mozilla Developer Network (MDN). (2024) Document.getElementById() – Web APIs. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById (developer.mozilla.org in Bing) (Accessed: 19 June 2026).
