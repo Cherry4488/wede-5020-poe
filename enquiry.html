@@ -4,6 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    
+
+  <!--Meta tags for SEO-->
+  <meta name="description" content="Send your enquiries to La’ Sweet Fragrance. We are here to assist with perfume orders and questions.">
+  <meta name="keywords" content="perfume enquiry, fragrance enquiry, La Sweet, South Africa">
+  <meta name="author" content="La’ Sweet Fragrance">
+
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -31,17 +38,30 @@
             <!--Query paragraph-->
             <p>Got any queries,unsatisfied about our product or would like to collaborate with us? Fill out our form below and will get back to you.</p>
 
-            <!--Enquiry form-->
-            <li><label>Name:</label></li>
-           <input type="text">
-            <li><label>Surname:</label></li>
-            <input type="text">
-            <li><label>Email Address:</label></li>
-            <input type="email">
-            <li><label>Message:</label></li>
-            <input type="message">
+           <!-- Enquiry form -->
+
+<form id="enquiryForm">
+<form id="enquiryForm">
+  <label>Name:</label>
+  <input type="text" name="name">
+
+  <label>Surname:</label>
+  <input type="text" name="surname">
+
+  <label>Email Address:</label>
+  <input type="email" name="email">
+
+  <label>Message:</label>
+  <textarea name="message"></textarea>
+
+  <button type="submit">Submit</button>
+</form>
+
+</form>
         </section>
     </main>
 
+  <!--Link to JavaScript file -->
+  <script src="js/script.js" defer></script>
 </body>
 </html>
